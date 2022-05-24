@@ -14,3 +14,4 @@ The following art packages were included in the creation of the demos to help il
 
 * [Technical laboratory designer-V1 Room](https://assetstore.unity.com/packages/3d/technical-laboratory-designer-v1-room-93699)
 * [Door Free Pack Aferar](https://assetstore.unity.com/packages/3d/props/interior/door-free-pack-aferar-148411)
+* [Waveform Provider](https://github.com/EsProgram/WaveformProvider)
